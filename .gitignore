@@ -1,1 +1,7 @@
 *.zip
+*.csv
+*.paquet
+'git link.txt'
+.ipynb_checkpoints/*
+.idea/*
+xmlToOracle.py
